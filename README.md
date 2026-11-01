@@ -1,7 +1,16 @@
 <p align="center">
-  <img src="assets/openseec-192.png" width="120" height="120" alt="Emblema de openSeec">
+  <img src="assets/openseec-favicon-os.png" width="120" height="120" alt="Monograma O_S de openSeec en azul hielo">
 </p>
 <h1 align="center">openSeec</h1>
+
+[![Licencia propietaria](https://img.shields.io/badge/Licencia-Propietaria-64748b)](LICENSE)
+
+![Versión 0.24.0](https://img.shields.io/badge/Versi%C3%B3n-0.24.0-10a37f)
+![SAST local](https://img.shields.io/badge/SAST-local-5b9cff)
+![Secretos](https://img.shields.io/badge/Detecci%C3%B3n-secretos-d97757)
+![Dependencias](https://img.shields.io/badge/An%C3%A1lisis-dependencias-8b5cf6)
+![IA opcional](https://img.shields.io/badge/IA-opcional-64748b)
+
 <p align="center"><strong>Seguridad de repositorios con detección local, historia y una investigación adicional opcional.</strong></p>
 <p align="center">SAST propio · secretos · dependencias con KEV y EPSS · nada se ejecuta del repo analizado</p>
 
@@ -236,3 +245,10 @@ respuesta de un modelo.
 Este repositorio contiene documentación y recursos visuales. Para consultar por acceso a la aplicación o una demostración, contactá a [Ariel Levy](https://github.com/arielelevy).
 
 - [Guía .NET](docs/dotnet.md)
+
+## Licencia
+
+Software, documentación y recursos visuales propios: **licencia propietaria, todos los derechos
+reservados**. Su publicación no autoriza el uso, la modificación ni la redistribución.
+Consultá [LICENSE](LICENSE) para las condiciones y el contacto. Los componentes y materiales
+de terceros conservan sus licencias.
