@@ -3,13 +3,14 @@
 </p>
 <h1 align="center">openSeec</h1>
 
-[![Licencia propietaria](https://img.shields.io/badge/Licencia-Propietaria-64748b)](LICENSE)
-
-![Versión 0.24.0](https://img.shields.io/badge/Versi%C3%B3n-0.24.0-10a37f)
-![SAST local](https://img.shields.io/badge/SAST-local-5b9cff)
-![Secretos](https://img.shields.io/badge/Detecci%C3%B3n-secretos-d97757)
-![Dependencias](https://img.shields.io/badge/An%C3%A1lisis-dependencias-8b5cf6)
-![IA opcional](https://img.shields.io/badge/IA-opcional-64748b)
+<p align="center">
+  <a href="LICENSE"><img alt="Licencia propietaria" src="https://img.shields.io/badge/Licencia-Propietaria-64748b"></a>
+  <img alt="Versi&#243;n 0.24.0" src="https://img.shields.io/badge/Versi%C3%B3n-0.24.0-10a37f">
+  <img alt="SAST local" src="https://img.shields.io/badge/SAST-local-5b9cff">
+  <img alt="Secretos" src="https://img.shields.io/badge/Detecci%C3%B3n-secretos-d97757">
+  <img alt="Dependencias" src="https://img.shields.io/badge/An%C3%A1lisis-dependencias-8b5cf6">
+  <img alt="IA opcional" src="https://img.shields.io/badge/IA-opcional-64748b">
+</p>
 
 <p align="center"><strong>Seguridad de repositorios con detección local, historia y una investigación adicional opcional.</strong></p>
 <p align="center">SAST propio · secretos · dependencias con KEV y EPSS · nada se ejecuta del repo analizado</p>
