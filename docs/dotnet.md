@@ -2,6 +2,15 @@
 
 openSeec lee el proyecto para encontrar señales de código, secretos, configuración y dependencias. No necesita compilarlo: no ejecuta `dotnet`, MSBuild, tareas del proyecto ni una restauración de paquetes.
 
+## Actualización ola20
+
+SAST15 incorpora patrones tipados System.Web para comandos, LDAP y redirecciones.
+El caso público de redirección quedó detectado con controles positivos y negativos.
+La evidencia nueva es DEV, sin holdout nuevo; no demuestra cobertura general de C#.
+HttpCookie depende de configuración efectiva no observada y conserva su falso negativo
+condicional. El análisis sigue sin ejecutar, importar ni compilar el proyecto objetivo.
+[Alcance completo de ola20](ola20.md).
+
 ## Primera revisión
 
 1. Elegí la carpeta de la solución o del proyecto. El perfil Fuentes omite artefactos que no aportan a la revisión; la cobertura informa el alcance efectivo.

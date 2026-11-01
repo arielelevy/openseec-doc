@@ -229,6 +229,17 @@ las entidades del producto.
 
 ## Estado
 
+### Ola20 · actualización de alcance (2026-11-01)
+
+Backend de instrucciones locales por API (formulario pendiente), patrones C# System.Web
+con controles DEV y prototipos de retención OSV sin eliminación. Cloud no admite las
+instrucciones locales. HttpCookie y las relaciones de dependencias desconocidas siguen
+con sus límites explícitos. [Cambios, mediciones y pendientes de ola20](docs/ola20.md).
+
+La imagen de cobertura se actualizó:88% (52/59 celdas), contando desde «Parcial».
+La ampliación C# SAST15 figura como parcial; los controles DEV no son un holdout nuevo.
+No se declara PASS de release ni una versión nueva del producto.
+
 **Release 0.24.0 «Repos grandes y más medido» (2026-10-31)**: seis lenguajes y formatos más pasan un holdout de otro autor
 (PHP, Kotlin, GitHub Actions, Terraform, Compose y Kubernetes); análisis estructural y grafo para nueve lenguajes más;
 plazo adaptativo, avance en vivo, exclusión de carpetas e investigación por tandas para repos grandes. Cobertura: 88 %.
