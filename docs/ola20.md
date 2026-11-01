@@ -1,6 +1,6 @@
 # Ola20: alcance y límites
 
-Actualizado: 2026-11-01. Versión del producto: 0.24.0. La integración en main no
+Actualizado: 2026-11-01. Versión del producto: 0.25.0. La integración en main no
 equivale por sí sola a una release aceptada ni a cobertura completa.
 
 ## Instrucciones de una corrida local
@@ -57,3 +57,6 @@ porque los controles nuevos son DEV y no tienen un holdout nuevo.
 
 La imagen clara y oscura del README incluye estos límites. Una señal no confirma
 una vulnerabilidad y la ausencia de señales no prueba seguridad.
+
+La comprobación de publicación reintenta errores transitorios de Azure dentro de un plazo de cuatro minutos.
+Los errores permanentes y las revisiones que no llegan a estar sanas siguen fallando.

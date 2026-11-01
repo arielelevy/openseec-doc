@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="LICENSE"><img alt="Licencia propietaria" src="https://img.shields.io/badge/Licencia-Propietaria-64748b"></a>
-  <img alt="Versi&#243;n 0.24.0" src="https://img.shields.io/badge/Versi%C3%B3n-0.24.0-10a37f">
+  <img alt="Versi&#243;n 0.25.0" src="https://img.shields.io/badge/Versi%C3%B3n-0.25.0-10a37f">
   <img alt="SAST local" src="https://img.shields.io/badge/SAST-local-5b9cff">
   <img alt="Secretos" src="https://img.shields.io/badge/Detecci%C3%B3n-secretos-d97757">
   <img alt="Dependencias" src="https://img.shields.io/badge/An%C3%A1lisis-dependencias-8b5cf6">
@@ -64,7 +64,7 @@ motor correr ni confirma vulnerabilidades.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/cobertura-lenguajes-oscuro.svg">
-  <img src="assets/cobertura-lenguajes-claro.svg" alt="Cobertura y madurez por lenguaje en openSeec 0.24.0: 88 % de las celdas que aplican">
+  <img src="assets/cobertura-lenguajes-claro.svg" alt="Cobertura y madurez por lenguaje en openSeec 0.25.0: 88 % de las celdas que aplican">
 </picture>
 
 **Cobertura: 88 %** (52 de 59 celdas que aplican). Cuenta una celda «Parcial» o mejor; «Sin medir» no cuenta y «No aplica» sale del total. «Medida»: corpus con verdad o caso real contra un oráculo independiente; en reglas SAST, además, 0 falsos positivos y 0 falsos negativos en un holdout de otro autor. «Parcial»: alcance acotado (reglas sin holdout, chequeo propio de delimitadores o grafo que sobreaproxima). «No analizado» nunca significa «sin riesgos».

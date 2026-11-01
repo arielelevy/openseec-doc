@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="844" viewBox="0 0 860 844" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" role="img" aria-labelledby="t d">
-<title id="t">Cobertura y madurez por lenguaje en openSeec 0.24.0, ola20</title>
+<title id="t">Cobertura y madurez por lenguaje en openSeec 0.25.0, ola20</title>
 <desc id="d">Matriz de lenguajes por capacidad; cada celda nombra su nivel: medida, disponible, parcial, sin medir o no analizado.</desc>
 <rect width="860" height="844" rx="10" fill="#1a1a19"/>
 <text x="24" y="38" font-size="19" font-weight="600" fill="#f0efec">Cobertura y madurez por lenguaje</text>
-<text x="24" y="60" font-size="13" fill="#c3c2b7">openSeec 0.24.0 · ola20 · madurez según evidencia observada</text>
+<text x="24" y="60" font-size="13" fill="#c3c2b7">openSeec 0.25.0 · ola20 · madurez según evidencia observada</text>
 <text x="836" y="38" text-anchor="end" font-size="19" font-weight="600" fill="#f0efec">88 %</text>
 <text x="836" y="60" text-anchor="end" font-size="13" fill="#c3c2b7">cubierto: 52 de 59 celdas que aplican</text>
 <rect x="24" y="78" width="104" height="30" rx="4" fill="#262624" stroke="#383835" stroke-dasharray="3 3"/><text x="76" y="97.5" text-anchor="middle" font-size="12.5" fill="#898781">No analizado</text>
